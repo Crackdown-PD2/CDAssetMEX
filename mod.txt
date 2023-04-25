@@ -1,0 +1,8 @@
+{
+	"name" : "Crackdown Assets - Federales Faction",
+	"description" : "Required assets for Crackdown, containing enemy assets for the Federales faction.",
+	"author" : "The Crackdown Team",
+	"contact" : "https://discord.gg/BdN4as7",
+	"blt_version" : 2,
+	"undisablable" : true
+}
